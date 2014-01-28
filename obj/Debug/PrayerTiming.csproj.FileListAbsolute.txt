@@ -1,0 +1,10 @@
+E:\e\ahmad (f)\Programs\Projects\ProgProj\C#\Prayer times\obj\Debug\PrayerTiming.exe
+E:\e\ahmad (f)\Programs\Projects\ProgProj\C#\Prayer times\obj\Debug\PrayerTiming.pdb
+E:\e\ahmad (f)\Programs\Projects\ProgProj\C#\Prayer times\bin\Debug\PrayerTiming.exe
+E:\e\ahmad (f)\Programs\Projects\ProgProj\C#\Prayer times\bin\Debug\PrayerTiming.pdb
+E:\e\ahmad (f)\Programs\Projects\ProgProj\C#\Prayer times\obj\Debug\PrayerTiming.csprojResolveAssemblyReference.cache
+E:\e\ahmad (f)\Programs\Projects\ProgProj\C#\Prayer times\obj\Debug\PrayerTiming.frmPrayerTiming.resources
+E:\e\ahmad (f)\Programs\Projects\ProgProj\C#\Prayer times\obj\Debug\PrayerTiming.frmSettings.resources
+E:\e\ahmad (f)\Programs\Projects\ProgProj\C#\Prayer times\obj\Debug\PrayerTiming.frmEditLocation.resources
+E:\e\ahmad (f)\Programs\Projects\ProgProj\C#\Prayer times\obj\Debug\PrayerTiming.Properties.Resources.resources
+E:\e\ahmad (f)\Programs\Projects\ProgProj\C#\Prayer times\obj\Debug\PrayerTiming.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PrayerTiming.frmPrayerTiming.resources
+obj\Debug\PrayerTiming.frmSettings.resources
+obj\Debug\PrayerTiming.frmEditLocation.resources
+obj\Debug\PrayerTiming.Properties.Resources.resources
+obj\Debug\PrayerTiming.csproj.GenerateResource.Cache
+bin\Debug\PrayerTiming.exe
+bin\Debug\PrayerTiming.pdb
+obj\Debug\PrayerTiming.exe
+obj\Debug\PrayerTiming.pdb
